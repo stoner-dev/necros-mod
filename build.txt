@@ -1,0 +1,3 @@
+displayName = Necros Mod
+author = Stoner
+version = 0.1
